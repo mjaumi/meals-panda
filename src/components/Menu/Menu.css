@@ -1,0 +1,24 @@
+.menu {
+  position: sticky;
+  top: 0;
+}
+
+.menu h2 {
+  color: #23180d;
+}
+
+.menu-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px;
+  border: 2px solid #23180d;
+  padding: 20px;
+  border-radius: 20px;
+  color: #23180d;
+}
+
+.menu-card h4,
+.menu-card p {
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+.header {
+  background-color: #23180d;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  color: white;
+}
+
+.header span {
+  font-size: 35px;
+  font-weight: 300;
+}
